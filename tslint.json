@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-eslint-rules",
+    "tslint-immutable",
+    "tslint-config-prettier"
+  ]
+}
